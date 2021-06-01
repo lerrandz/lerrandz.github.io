@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Lerrand - Your Tech Corner Stone 
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Lerrand is a small team of consultants specialized in distributed systems engineering, with a broad skillset combining process management, site reliabilit engineering, and software engineering. We can help you bootstrap your idea in no time!
