@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Lerrand - Your Tech Corner Stone 
+# Imagine, we do the rest 
 
 Lerrand is a small team of consultants specialized in distributed systems engineering, with a broad skillset combining process management, site reliabilit engineering, and software engineering. We can help you bootstrap your idea in no time!
