@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 # We help you scale.
 ## Whether it is from an idea to a project, from a user to a million, from a server to a 100, we are here to make it happen.
 
-Lerrand is a small team of consultants specialized in distributed systems engineering, with a broad skillset combining process management, site reliabilit engineering, and software engineering. We can help you bootstrap your idea in no time!
+Lerrand is a small team of consultants specialized in distributed systems engineering, with a broad skillset combining process management, site reliability engineering, and software engineering. We can help you bootstrap your idea in no time!
